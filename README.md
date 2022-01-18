@@ -1,6 +1,6 @@
 # Capital Quiz
 
-A new Flutter project.
+Choose the capital.
 
 ## Getting Started
 
