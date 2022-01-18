@@ -1,6 +1,6 @@
 # Capital Quiz
 
-Choose the capital.
+Choose the capital quiz!
 
 ## Getting Started
 
